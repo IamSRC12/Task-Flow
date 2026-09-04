@@ -1,0 +1,8 @@
+Last updated: 2026-08-14T14:56:42
+
+Files (2):
+  code.txt
+  setup.iss
+
+Subdirectories (0):
+  (none)

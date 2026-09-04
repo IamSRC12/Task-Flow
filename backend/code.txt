@@ -1,0 +1,13 @@
+Last updated: 2026-08-14T14:56:21
+
+Files (7):
+  api.py
+  code.txt
+  db.py
+  rainmeter_sync.py
+  scheduler.py
+  sync_bridge.py
+  win_widget.py
+
+Subdirectories (1):
+  __pycache__
